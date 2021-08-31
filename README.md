@@ -1,13 +1,10 @@
 <h1 align = "center"> Xin chào 👋, tôi là Nhiệt Thành </h1>
-<h3 align = "center"> Một nhà phát triển giao diện người dùng đam mê đến từ Việt Nam </h3>
 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=nhietthanh23&label=Profile%20views&color=0e75b6&style=flat" alt = "nhietthanh23" /> </p>
 
-<p align = "left"> <a href = "https: //github.com/ryo-ma/github-profile-trophy"><img src = "https://github-profile-trophy.vercel.app/?username=nhietthanh23" alt = "nhietthanh23" /> </ a> </p>
 
 - 🔭 [Trang đích nội thất - Wooder / Tháng 12 năm 2020] (https://nhietthanh23.github.io/wooder/)
 
-- 👯 [Trang web Furnitown / Tháng 1 năm 2021] (https://nhietthanh23.github.io / furnitown /)
+- 👯 [Trang web Furnitown / Tháng 1 năm 2021] (https://nhietthanh.site/)
 
 - 🤝 [Trang web Gbox Studios / Tháng 3 năm 2021] (https://nhietthanh23.github.io/gbox/)
 
