@@ -1,4 +1,4 @@
-<h1 align = "center"> Xin chào 👋, tôi là Nhiệt Thành </h1>
+<h1 align = "center"> Xin chào 👋, tôi là Nhiệt Thanh </h1>
 
 
 
